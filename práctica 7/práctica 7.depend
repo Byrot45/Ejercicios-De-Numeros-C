@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666666705 source:c:\users\jcarl\desktop\programas c\práctica 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FunPasValor.h"
+
+1666666705 c:\users\jcarl\desktop\programas c\práctica 7\funpasvalor.h
+	<math.h>
+
